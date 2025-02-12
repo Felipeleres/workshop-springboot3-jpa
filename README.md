@@ -1,8 +1,10 @@
 # 🚀 Web services project
 
-O projeto "workshop-springboot3-jpa" é uma aplicação desenvolvida em Java utilizando o framework Spring Boot 3 e JPA/Hibernate. Seu objetivo é gerenciar entidades como produtos, pedidos e pagamentos, implementando operações CRUD (Criar, Ler, Atualizar e Deletar) 
+O projeto "workshop-springboot3-jpa" é uma aplicação desenvolvida em Java utilizando o framework Spring Boot 3 e JPA/Hibernate. Seu objetivo é gerenciar entidades como produtos, pedidos e usuários, implementando operações CRUD (Criar, Ler, Atualizar e Deletar) 
 e estabelecendo relacionamentos entre essas entidades. Para o ambiente de desenvolvimento, é utilizado o banco de dados em memória H2, enquanto para produção, o PostgreSQL é configurado. 
 O projeto segue uma arquitetura em camadas, incluindo recursos RESTful, serviços e repositórios, promovendo uma separação clara de responsabilidades e facilitando a manutenção e escalabilidade da aplicação.
+
+Essa aplicação faz parte do modulo de projetos proposto no curso de formação de linguagem JAVA, que é ministrado e orientado pelo Professor Nelio Alves da plataforma Devsuperior.
 
 ## 📌 Tecnologias Utilizadas
 
